@@ -19,3 +19,10 @@
   (def small 1)
   (def big 100)
   (guess-my-number))
+
+(comment
+  (guess-my-number)
+  (bigger)
+  (smaller)
+  (start-over)
+  :rcf)
